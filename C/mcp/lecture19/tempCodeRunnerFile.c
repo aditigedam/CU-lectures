@@ -1,0 +1,1 @@
+strcat(a,b)
