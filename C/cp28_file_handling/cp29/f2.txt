@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+    FILE *f = fopen(f1.txt,'r');
+    while(fgets())
+    return 0;
+}
